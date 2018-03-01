@@ -1,0 +1,9 @@
+#include<iostream.h>
+#include<conio.h>
+#include<stdio.h>
+#include<string.h>
+class BUS
+{
+ int Busno,Stops;
+ char Drivername[20],Conductorname[20],Stopname[20][5],Area[20];
+}
